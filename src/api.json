@@ -1,0 +1,25 @@
+{
+  "channels.history": [
+    "token",
+    "channel"
+  ],
+  "chat.postMessage": [
+    "token",
+    "channel",
+    "text"
+  ],
+  "conversations.history": [
+    "token",
+    "channel"
+  ],
+  "search.all": [
+    "token",
+    "query"
+  ],
+  "stars.add": [
+    "token"
+  ],
+  "stars.list": [
+    "token"
+  ]
+}
